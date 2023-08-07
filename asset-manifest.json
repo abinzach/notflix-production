@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abinzach/notflix.git/static/css/main.820db953.css",
+    "main.js": "/abinzach/notflix.git/static/js/main.622a273b.js",
+    "index.html": "/abinzach/notflix.git/index.html",
+    "main.820db953.css.map": "/abinzach/notflix.git/static/css/main.820db953.css.map",
+    "main.622a273b.js.map": "/abinzach/notflix.git/static/js/main.622a273b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820db953.css",
+    "static/js/main.622a273b.js"
+  ]
+}
